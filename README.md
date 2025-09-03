@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Felipe42578468/Felipe42578468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1536" height="1024" alt="Felipe" src="https://github.com/user-attachments/assets/ec1798d9-fb47-44cb-803c-d87332fb686f" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![ezgif-4a0327387d6e6b](https://github.com/user-attachments/assets/de57bb88-4732-46d1-91c5-7444a09dd57d)
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Felipe42578468O&theme=radical&hide_border=true)
+
