@@ -8,8 +8,14 @@
 
 <br />
 
+<h2 align="center">My favorite technologies ❤️:</h2>
 <p align="center">
-  <strong>My favorite technologies:</strong><br/> React, Node.js, Cybersecurity
+  Terraform<br/>
+  GCP<br/>
+  Node.js<br/>
+  NestJs<br/>
+  GraphQL<br/>
+  Next.js
 </p>
 
 <br />
