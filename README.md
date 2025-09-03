@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <strong>My favorite technologies:</strong> React, Node.js, Cybersecurity
+  <strong>My favorite technologies:</strong><br/> React, Node.js, Cybersecurity
 </p>
 
 <br />
