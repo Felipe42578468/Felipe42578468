@@ -6,7 +6,11 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Felipe42578468O&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Felipe42578468O&theme=radical&hide_border=true" />
+</p>
 
