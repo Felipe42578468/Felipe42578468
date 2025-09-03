@@ -1,11 +1,8 @@
 
-<img width="1536" height="1024" alt="Felipe" src="https://github.com/user-attachments/assets/ec1798d9-fb47-44cb-803c-d87332fb686f" />
+<img width="1536" height="1024" alt="Felipe" src="https://github.com/user-attachments/assets/0c1d7a47-0b2e-4496-a33a-89e4298443d7" />
 
 
-
-![ezgif-4a0327387d6e6b](https://github.com/user-attachments/assets/de57bb88-4732-46d1-91c5-7444a09dd57d)
-
-
+![Uploading ezgif-4a0327387d6e6b.gif…]()
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical)
