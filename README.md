@@ -1,10 +1,9 @@
-<img width="1536" height="1024" alt="Felipe" src="https://github.com/user-attachments/assets/0c1d7a47-0b2e-4496-a33a-89e4298443d7" />
+<img width="1000" height="1024" alt="Felipe" src="https://github.com/user-attachments/assets/0c1d7a47-0b2e-4496-a33a-89e4298443d7" />
 
 <br /> <!-- espaço entre a primeira imagem e o GIF -->
 
 <p align="center">
-
-  <img width="1536" height="1024" alt="GIF ANIMADO" src="https://github.com/user-attachments/assets/90cd52b5-d4c7-4149-b958-91653300fd0b" />
+  <img width="1000" height="1024" alt="GIF ANIMADO" src="https://github.com/user-attachments/assets/90cd52b5-d4c7-4149-b958-91653300fd0b" />
 </p>
 
 
