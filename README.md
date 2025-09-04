@@ -28,3 +28,4 @@
   <img src="https://streak-stats.demolab.com?user=Felipe42578468&theme=radical&hide_border=true" />
 </p>
 
+![2025-09-04 12-56-34 mp4](https://github.com/user-attachments/assets/4a6e183b-a8ac-483b-9d1f-eb5dcdfaa369)
