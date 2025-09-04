@@ -14,8 +14,6 @@
   CyberSecurty<br/>
   Node.js<br/>
   NestJs<br/>
-  GraphQL<br/>
-  Next.js
 </p>
 
 <br />
