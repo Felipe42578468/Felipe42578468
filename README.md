@@ -9,7 +9,7 @@
 
 <br />
 
-<h2 align="center">My favorite technologies ❤️:</h2>
+<h2 align="center">My favorite technologies:</h2>
 <p align="center">
   CyberSecurty<br/>
   Node.js<br/>
