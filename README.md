@@ -3,7 +3,7 @@
 <br /> <!-- espaço entre a primeira imagem e o GIF -->
 
 <p align="center">
-  <img width="1000" height="1024" alt="GIF ANIMADO" src="https://github.com/user-attachments/assets/4a6e183b-a8ac-483b-9d1f-eb5dcdfaa369" />
+  <img width="1000" height="1024" alt="GIF ANIMADO" src="https://github.com/user-attachments/assets/fb5ff9f1-48b9-40fa-b6f4-84857faba036" />
 </p>
 
 
@@ -27,3 +27,4 @@
 </p>
 
 
+![2025-09-04 12-56-34 mp4](https://github.com/user-attachments/assets/fb5ff9f1-48b9-40fa-b6f4-84857faba036)
