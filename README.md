@@ -3,15 +3,15 @@
 <br /> <!-- espaço entre a primeira imagem e o GIF -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7be19f23-1b74-400e-a9e8-6389bf21a80f" alt="GIF animado" />
+![ezgif-6d597606057a3c](https://github.com/user-attachments/assets/90cd52b5-d4c7-4149-b958-91653300fd0b)
 </p>
+
 
 <br />
 
 <h2 align="center">My favorite technologies ❤️:</h2>
 <p align="center">
-  Terraform<br/>
-  GCP<br/>
+  CyberSecurty<br/>
   Node.js<br/>
   NestJs<br/>
   GraphQL<br/>
@@ -21,9 +21,10 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe42578468O&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Felipe42578468O&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Felipe42578468&theme=radical&hide_border=true" />
 </p>
+
