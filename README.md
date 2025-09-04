@@ -3,7 +3,7 @@
 <br /> <!-- espaço entre a primeira imagem e o GIF -->
 
 <p align="center">
-  <img width="1000" height="1024" alt="GIF ANIMADO" src="https://github.com/user-attachments/assets/90cd52b5-d4c7-4149-b958-91653300fd0b" />
+  <img width="1000" height="1024" alt="GIF ANIMADO" src="https://github.com/user-attachments/assets/4a6e183b-a8ac-483b-9d1f-eb5dcdfaa369" />
 </p>
 
 
@@ -28,4 +28,4 @@
   <img src="https://streak-stats.demolab.com?user=Felipe42578468&theme=radical&hide_border=true" />
 </p>
 
-![2025-09-04 12-56-34 mp4](https://github.com/user-attachments/assets/4a6e183b-a8ac-483b-9d1f-eb5dcdfaa369)
+
