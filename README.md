@@ -21,9 +21,9 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe Andrade&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe42578468O&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Felipe Andrade&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Felipe42578468O&theme=radical&hide_border=true" />
 </p>
