@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_owner=true" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe42578468&theme=radical&layout=compact&langs_count=8" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe42578468&theme=radical&layout=compact&langs_count=8&cache_seconds=1800&v=1" />
 </div>
 
 <br />
