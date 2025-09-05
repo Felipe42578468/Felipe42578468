@@ -24,6 +24,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe42578468&theme=radical&layout=compact&langs_count=8" />
 </div>
 
+<br />
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Felipe42578468&theme=radical&hide_border=true" />
 </p>
