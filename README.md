@@ -11,9 +11,10 @@
 
 <h2 align="center">My favorite technologies:</h2>
 <p align="center">
-  CyberSecurty<br/>
+  Cybersecurity<br/>
   Node.js<br/>
   NestJs<br/>
+  React<br/>
 </p>
 
 <br />
