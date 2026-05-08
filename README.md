@@ -2,9 +2,6 @@
 
 <br /> <!-- espaço entre a primeira imagem e o GIF -->
 
-<p align="center">
-  <img width="1000" height="1024" alt="GIF ANIMADO" src="https://github.com/user-attachments/assets/fb5ff9f1-48b9-40fa-b6f4-84857faba036" />
-</p>
 
 
 <br />
