@@ -2,8 +2,6 @@
 
 <br /> <!-- espaço entre a primeira imagem e o GIF -->
 
-# Hi, I'm Felipe Andrade 👋
-
 Full Stack Developer focused on Backend, APIs, IoT and Cybersecurity.
 
 💻 Main Stack:
@@ -22,8 +20,6 @@ Full Stack Developer focused on Backend, APIs, IoT and Cybersecurity.
 - REST APIs
 - GraphQL
 - Automation systems
-
-📍 São Paulo, Brazil
 
 
 <br />
