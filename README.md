@@ -2,25 +2,6 @@
 
 <br /> <!-- espaço entre a primeira imagem e o GIF -->
 
-Full Stack Developer focused on Backend, APIs, IoT and Cybersecurity.
-
-💻 Main Stack:
-- Node.js
-- TypeScript
-- React / Next.js
-- NestJS
-- MySQL / MongoDB
-- Docker
-- Linux
-
-⚡ Experience with:
-- Industrial IoT
-- Raspberry Pi
-- Cloud integrations
-- REST APIs
-- GraphQL
-- Automation systems
-
 
 <br />
 
