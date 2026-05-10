@@ -1,9 +1,9 @@
 <img width="1000" alt="Felipe Andrade Banner" src="https://github.com/user-attachments/assets/0c1d7a47-0b2e-4496-a33a-89e4298443d7" />
 
-<h1 align="center">Hi, I'm Felipe Andrade 👋</h1>
+<h1 align="center">Olá, eu sou Felipe Andrade 👋</h1>
 
 <p align="center">
-  Full Stack Developer focused on Backend, APIs, IoT and Cybersecurity
+  Desenvolvedor Full Stack com foco em Backend, APIs, IoT e Cybersecurity
 </p>
 
 <p align="center">
@@ -22,14 +22,14 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-- 💻 Full Stack Developer with experience in real-world applications
-- ⚡ Focused on Backend Development, APIs and Cloud Integrations
-- 🏭 Experience with Industrial IoT, Raspberry Pi and Automation Systems
-- 🔐 Interested in Cybersecurity and Infrastructure
-- 🐳 Experience using Docker and Linux environments
-- 📍 São Paulo, Brazil
+- 💻 Desenvolvedor Full Stack com experiência em aplicações reais
+- ⚡ Focado em Backend, APIs e integrações em nuvem
+- 🏭 Experiência com IoT Industrial, Raspberry Pi e automação
+- 🔐 Interesse em Cybersecurity e infraestrutura
+- 🐳 Experiência com Docker e ambientes Linux
+- 📍 São Paulo, Brasil
 
 ---
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 🛠 Technologies & Tools
+## 🛠 Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,react,nextjs,docker,mongodb,mysql,linux,git,github,vscode,azure" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 📌 Featured Areas
+## 📌 Áreas de Interesse
 
 - Backend Development
 - REST APIs & GraphQL
@@ -88,6 +88,6 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 📧 felipeandrad903@gmail.com
