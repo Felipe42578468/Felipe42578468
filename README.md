@@ -1,11 +1,40 @@
-<img width="1000" height="1024" alt="Felipe" src="https://github.com/user-attachments/assets/0c1d7a47-0b2e-4496-a33a-89e4298443d7" />
+<img width="1000" alt="Felipe Andrade Banner" src="https://github.com/user-attachments/assets/0c1d7a47-0b2e-4496-a33a-89e4298443d7" />
 
-<br /> <!-- espaço entre a primeira imagem e o GIF -->
+<h1 align="center">Hi, I'm Felipe Andrade 👋</h1>
 
+<p align="center">
+  Full Stack Developer focused on Backend, APIs, IoT and Cybersecurity
+</p>
 
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-andrade-7104b22b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 
-<h2 align="center">My favorite technologies:</h2>
+  <a href="https://github.com/Felipe42578468">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://felipeandrade-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer with experience in real-world applications
+- ⚡ Focused on Backend Development, APIs and Cloud Integrations
+- 🏭 Experience with Industrial IoT, Raspberry Pi and Automation Systems
+- 🔐 Interested in Cybersecurity and Infrastructure
+- 🐳 Experience using Docker and Linux environments
+- 📍 São Paulo, Brazil
+
+---
+
+## 💻 Main Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -17,23 +46,48 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+---
 
-<br />
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_owner=true" />
 
-  <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe42578468&theme=radical&layout=compact&langs_count=8&cache_seconds=1800&v=1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe42578468&theme=radical&layout=compact&langs_count=8" />
+
 </div>
 
-<br />
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Felipe42578468&theme=radical&hide_border=true" />
 </p>
 
+---
 
+## 🛠 Technologies & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,react,nextjs,docker,mongodb,mysql,linux,git,github,vscode,azure" />
+</p>
 
+---
 
+## 📌 Featured Areas
+
+- Backend Development
+- REST APIs & GraphQL
+- Full Stack Applications
+- Industrial IoT
+- Cloud Integrations
+- Cybersecurity
+- Automation Systems
+
+---
+
+## 📫 Contact
+
+📧 felipeandrad903@gmail.com
