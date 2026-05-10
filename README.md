@@ -50,13 +50,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe42578468&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe42578468&theme=radical&layout=compact&langs_count=8" />
-
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe42578468&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 ---
 
