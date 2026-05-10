@@ -2,6 +2,28 @@
 
 <br /> <!-- espaço entre a primeira imagem e o GIF -->
 
+# Hi, I'm Felipe Andrade 👋
+
+Full Stack Developer focused on Backend, APIs, IoT and Cybersecurity.
+
+💻 Main Stack:
+- Node.js
+- TypeScript
+- React / Next.js
+- NestJS
+- MySQL / MongoDB
+- Docker
+- Linux
+
+⚡ Experience with:
+- Industrial IoT
+- Raspberry Pi
+- Cloud integrations
+- REST APIs
+- GraphQL
+- Automation systems
+
+📍 São Paulo, Brazil
 
 
 <br />
