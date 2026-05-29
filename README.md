@@ -50,13 +50,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Felipe42578468&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 📌 Áreas de Interesse
 
