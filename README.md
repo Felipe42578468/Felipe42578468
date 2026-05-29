@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou Felipe Andrade 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack , APIs, IoT e Cybersecurity
+  Desenvolvedor Full Stack , APIs, IoT
 </p>
 
 <p align="center">
